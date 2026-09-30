@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+
+# Local planning and throwaway UI prototypes
+/VoiceFlow_Project_Plan.md
+/VoiceFlow_UI_Prototype.html
+/VoiceFlow_UI_Prototype.py
